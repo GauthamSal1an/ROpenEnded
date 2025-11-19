@@ -11,3 +11,4 @@ pie3D(x,
       labels = label,
       col = hcl.colors(length(data), "Spectral")
       )
+
